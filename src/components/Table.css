@@ -1,0 +1,17 @@
+.table {
+  margin: 40px 20px 0;
+  width: 200px;
+  display: inline-block;
+}
+
+.table-width-1 {
+  width: 100px;
+}
+
+.table-width-2 {
+  width: 200px;
+}
+
+.table-width-3 {
+  width: 300px;
+}

@@ -1,0 +1,13 @@
+.table-title {
+  background-color: #f39a2d;
+  height: 30px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+}
+
+.table-title h3{
+  color: white;
+}

@@ -1,0 +1,32 @@
+.table-items-2 {
+  width: inherit;
+  display: grid;
+  grid-template-columns: repeat(2, 100px);
+}
+
+.table-items-1 {
+  width: inherit;
+  display: grid;
+  grid-template-columns: repeat(1, 100px);
+}
+
+.table-items-3 {
+  width: inherit;
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+}
+
+.table-item {
+  height: 30px;
+  width: 95px;
+  display: inline-block;
+  text-align: center;
+  background-color: #f5f5f5;
+  margin: 2px 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.table-item h3 {
+  margin: 2px 0 0;
+}

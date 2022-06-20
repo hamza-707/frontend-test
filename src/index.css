@@ -1,0 +1,8 @@
+.background {
+  height: 500px;
+  width: 100%;
+  background-image: url("components/images/japan2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
